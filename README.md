@@ -8,7 +8,7 @@
 
 ## 📋 사용 기술
 ### 백엔드
-- Spring boot 3.2.4 
+- Spring boot 3.2.5
 - JAVA 17
 - Spring WEB
 - Spring MVC
@@ -20,7 +20,9 @@
 - H2
 
 ### 프론트엔드
+- HTML/CSS/JS
 - Thymeleaf
+- BootStrap
 
 📋 주요 키워드
 - 테스트
